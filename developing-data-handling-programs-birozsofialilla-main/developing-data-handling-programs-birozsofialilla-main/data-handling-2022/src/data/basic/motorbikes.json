@@ -1,0 +1,37 @@
+[
+  {
+    "plate": "44ZQ508",
+    "type": "MotorbikeType-4",
+    "year": 1975,
+    "automatic": true,
+    "owner_id": "0"
+  },
+  {
+    "plate": "7F 94442",
+    "type": "MotorbikeType-5",
+    "year": 1953,
+    "automatic": false,
+    "owner_id": "1"
+  },
+  {
+    "plate": "0V R6680",
+    "type": "MotorbikeType-3",
+    "year": 2014,
+    "automatic": true,
+    "owner_id": "2"
+  },
+  {
+    "plate": "2SYK283",
+    "type": "MotorbikeType-5",
+    "year": 2007,
+    "automatic": false,
+    "owner_id": "3"
+  },
+  {
+    "plate": "881 QTO",
+    "type": "MotorbikeType-2",
+    "year": 1958,
+    "automatic": false,
+    "owner_id": "4"
+  }
+]
